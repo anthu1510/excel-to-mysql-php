@@ -1,0 +1,173 @@
+﻿pk_addressMemoId,title_am,name_am,address_am,pin_am,phoneNo_am,resPhoneNo_am,mobile_am,fax_am,email
+36,Sub-Committee for Finance and Administration,The Chairman,,,,,,,
+37,Sub-Committee for Finance and Administration,The Vice Chairman,,,,,,,
+38,Sub-Committee for Finance and Administration,Mr. M.P. Cherian,,,,,,,
+39,Sub-Committee for Finance and Administration,Mr. P.T. Joseph,,,,,,,
+40,Sub-Committee for Finance and Administration,Mr. Krishna Rao,,,,,,,
+41,Sub-Committee for Finance and Administration,Mr. G.J. Ancheril,,,,,,,
+42,Sub-Committee for Finance and Administration,Mr J.K. Thomas,,,,,,,
+43,Sub-Committee for Finance and Administration,Mr. Thomas Jacob,,,,,,,
+44,Sub-Committee for Finance and Administration,Mr. Manu V Sam,,,,,,,
+45,Sub-Committee for Finance and Administration,Mr. C.Vinayaraghavan,,,,,,,
+46,Sub-Committee for Finance and Administration,The Secretary,,,,,,,
+47,Sub-Committee for Taxation and Land Matters,Mr. A. Jacob,,,,,,,
+48,Sub-Committee for Taxation and Land Matters,Mr. K. Jacob Thomas,,,,,,,
+49,Sub-Committee for Taxation and Land Matters,Mr. J.K. Thomas,,,,,,,
+50,Sub-Committee for Taxation and Land Matters,Mr. Thomas Jacob (Poabs),,,,,,,
+51,Sub-Committee for Taxation and Land Matters,Mr. P.T. Joseph,,,,,,,
+52,Sub-Committee for Taxation and Land Matters,Mr. M.P. Cherian,,,,,,,
+53,Sub-Committee for Taxation and Land Matters,MR. Joseph Markos,,,,,,,
+54,Sub-Committee for Taxation and Land Matters,Mr. B.P. Kariappa,,,,,,,
+55,Sub-Committee for Taxation and Land Matters,Mr. V. Venugopal,,,,,,,
+56,Sub-Committee for Taxation and Land Matters,Mr. Anoop Raj (Auditor),,,,,,,
+57,Sub-Committee for Taxation and Land Matters,The Chairman,,,,,,,
+58,Sub-Committee for Taxation and Land Matters,The Vice Chairman,,,,,,,
+59,Sub-Committee for Taxation and Land Matters,The Secretary,,,,,,,
+60,Sub-Committee for Wage Negotiation,The Chairman,,,,,,,
+61,Sub-Committee for Wage Negotiation,The Vice Chairman,,,,,,,
+62,Sub-Committee for Wage Negotiation,Mr. Thomas Jacob,,,,,,,
+63,Sub-Committee for Wage Negotiation,Mr. M.P. Cherian,,,,,,,
+64,Sub-Committee for Wage Negotiation,Mr. C.Vinayaraghavan ,,,,,,,
+65,Sub-Committee for Wage Negotiation,Mr. J.K. Thomas,,,,,,,
+66,Sub-Committee for Wage Negotiation,Mr. G.J. Ancheril,,,,,,,
+67,Sub-Committee for Wage Negotiation,Mr. S.B. Prabhakar,,,,,,,
+68,Sub-Committee for Wage Negotiation,Mr. Cheriyan M George,,,,,,,
+70,Sub-Committee for Wage Negotiation,Mr. P.T. Joseph,,,,,,,
+71,Sub-Committee for Wage Negotiation,Mr. Thomas Jacob (Poabs),,,,,,,
+72,Sub-Committee for Wage Negotiation,Mr. Unnikrishnan V,,,,,,,
+73,Sub-Committee for Wage Negotiation,The Secretary,,,,,,,
+75,Dist. Associations,The President,"Cardamom Growers Association,
+Vandanmedu .P.O,
+Idukki Dist",685551,o4868-277169,,,,cga@yahoo.com
+76,Dist. Associations,Mr. K.S.Augustine,"Executive Secretary,
+Cardamom Growers Association, Vandanmedu .P.O, Idukki Dist",685551,"04868 -277169,277469",,9447917274,,cga@yahoo.com
+77,Dist. Associations,Mr. Prasanth Rajesh,"President,
+Wayanad Coffee Growers Association,Kalpetta,
+Wayanad Dist.",673121,04936-202916,,9446076969,, 
+78,Dist. Associations,Mr.Anoop. P,"Secretary,
+Wayanad Coffee Gowers Association,
+Kalpetta, Wayanad Dist",673121,04936-202425,,9447234644,,coffeegrowers@gmail.com
+83,Dist. Associations,Mr.B.P.Kariappa,"Chairman,
+Kannan Devan Planters Association,
+Guderale Estate,
+Munnar .P.O,
+Kerala",685612,4865230561,,9400256990,,kariyappa.bp@kdhptea.co.in
+84,Dist. Associations,Mr.B.Pramod Krishana,"Hon.Secretary, Kannan Devan Planters Association, Guderale Estate, Munnar .P.O, Kerala",685612,4865230561,,9496743113,,
+85,Dist. Associations,Mr.Jeorge.P.Jacob,"Chairman,
+Mundakayam Planters Association,
+Kuppakayam Estate,
+Mundakayam ",686513,4869286628,,9447774157,,
+86,Dist. Associations,Mr.Koshy,"Hon.Secretary, Mundakayam Planters Association, Manical Estate, Mundakayam",686513,4828326702,,9745317189,,manikalestateoffice@gmail.com
+95,APK Secretariate,Mr. Ajith. B.K,"Secretary,
+Association of Planters of Kerala,
+P.B.No.63, 3rd Floor,
+3D, Capitol Centre,
+Opp. Govt. Secretariat, M.G.Road, Thiruvananthapuram",695001,"0471-2461793, 0471-6576760",,8547261793,0471-2461791,secretary@planterskerala.com
+96,APK Secretariate,Mr.H.K.Prasad,"Administrative Officer, Association of Planters of Kerala, P.B.No.63, 3rd Floor, 3D, Capitol Centre, Opp. Govt. Secretariat, M.G.Road, Thiruvananthapuram",695001,0471-2461793,,8547376813,0471-2461791,apk@planterskerala.com
+97,Dist. Associations,Mr.Babu Abraham,"Chairman,
+Nelliampathy Planters Association,
+Brook Land Estate,
+Padagiri. P.O,
+Palakkad",678509,04923-246253,,9447046253,,babubrooks@gmail.com
+99,Dist. Associations,Mr.S.V.Subramanian,"President,
+Cardamom Planters Association,
+Santhanpara,
+Idukki",,,,,,
+101,UPASI & State Associates,Mr.Ullas Menon,"Secretary General,
+UPASI, P.B.No.11,
+Coonoor",643101,"0423 - 2230445, 2230270",0423 - 2230460,9842230460,0423-2232030,upasi@sancharnet.in
+104,Important Telephones,Shri. K.V.George Karimattom,"President,
+INTUC Idukki Dist Committee,
+INTUC Office,Vandanmedu .P.O,
+Idukki Dist",,,,,,
+105,Important Telephones,Shri.Bharateepuram Sasi,"INTUC,Saravanagiri,
+Valakkode.P.O,
+Punalur",691331,,,9447122711,,
+106,Important Telephones,Shri.Cyriac Thomas,"HRPE Union,
+Elappara.P.O,
+Peermade, Idukki Dist",685501,,,9447306573,,
+107,Important Telephones,Shri. Lalaji Babu,"Lali Vilas,
+Pathadi, Bharathipuram,
+Kollam Dist",691305,,,9447273475,,
+108,Important Telephones,Shri. P.S.Rajan,"CITU,
+Paruthipara House,
+Ayyappancoil.P.O,
+Iddukki Dist",685507,,,9447309810,,
+109,Important Telephones,Shri.C.K.Unnikrishnan,"CITU,
+Leela Vilas,
+Chowara .P.O,
+Ernakulam Dist",683571,,,9446216820,,
+110,Important Telephones,Shri.H.Rajeevan,"AITUC,
+Chithira, Vilakkudi(Via),
+Kunnikode.P.O, Kollam Dist",691508,,,9447058464,,
+111,Important Telephones,Shri.M.Y.Ouseph,"AITUC,
+DEW Union,
+Munnar,
+Iddukki Dist",685612,,,9447166077,,
+112,Important Telephones,Shri.Baby.G,"R.S.P (B) Office,
+Elappara. P.O,
+Idukki Dist",,,,,,
+113,Important Telephones,Shri.N.B.Sasidharan,"Vice - President,
+Kerala Plantation Masdur Federation, BMS Office, Nedungandom.P.O,
+Idukki Dist",685553,,,,,
+114,Important Telephones,Shri.P.P.A. Kareem,"STU House,
+Meppadi P.O,
+Wayanad Dist",,,,9447952015,,
+115,Important Telephones,Shri.Joseph Mathew,"President,
+Plantation Staff and Employees Federation,
+Collectorate P.O,
+Kottayam - 2",,0481-2563256,,9447230524,,
+116,Important Telephones,Shri.T.M.Prabha,"Dhanus, Ashramam.P.O,
+Kollam",,,,9447362773,,
+117,Important Telephones,Shri.M.A.Kareem,"M.A.House,Chaladu.P.O
+Kannur",,,,,,
+118,Important Telephones,Adv.Shri.Tom Thomas,"President,
+HMS Union,
+Ponkunnam P O,
+Kottayam",686002,,,9249717606,,
+120,Important Telephones,Shri.A.K.Moni,"Ex.MLA,
+INTUC, House No.2157,
+Top Station Road,
+Munnar.P.O",,,,,,
+121,Important Telephones,Shri.P.K.Moorthi,"AITUC,
+AITUC Office,
+Meppadi.P.O,
+Wayanad",,,,9048559905,,
+143,APK Executive Committee Members,Mr.Thomas Jacob.K," Vaniampara Rubber Co.Ltd.,
+Kottayam .
+", 686 001,0481 2563038,, ,,vanrubco@yahoo.com
+145,APK Executive Committee Members,Mr. M.P. Cherian,"Cottanad Plantations,
+Kozhikode",,4952765093,,,,mpcherian@cottanad.com
+146,APK Executive Committee Members,Mr. A.E. Joseph,"Alampally,Idukki",,04869 246223,,,,alamtea@gmail.com
+147,APK Executive Committee Members,Mr. G.J. Ancheril,"AV.George & Co Pvt. Ltd,Kottayam",,0481-2563291,,,,gjancheril@yahoo.com
+148,APK Executive Committee Members,Mr. Philip C Jacob,"Velimalai Rubber Co. Ltd,
+Kottayam",,0481 2300343,,,,philip@ooppoottil.com
+149,APK Executive Committee Members,Mr. Joy Joseph,"Joseph & Markos,
+Kottayam",,4812300518,,,,jn_law@bsnl.in
+151,APK Executive Committee Members,Mr. Zachariah Kuriyan,"Gokul Rubber & Tea,
+Kottayam",,0481 2583619,,,,gokulplants@gmail.com
+154,APK Executive Committee Members,Mr. A.K. Jaleel,"KMA EStates Private Ltd,Kozhikode",,0495 2766235,,,,jaleel_99999@hotmail.com
+155,APK Executive Committee Members,Mr. Thomas Jacob ,"Poabs Enterprises (P) Ltd, Thiruvalla", ,0469 2743300,, ,,thomasjacob@poabs.com
+163,APK Executive Committee Members,Mr.Gilbert D' souza,"A.V. Thomas Group Companies,
+P.B. NO. 4260,
+Panampilly Nagar P.O.,
+Kochi – 682 036.
+",682 036,0484 2313866,,,,gilbert@avtplantations.co.in
+164,APK Executive Committee Members,Mr.P.T.Joseph,"Tropical Plantations Ltd.,
+Kottayam  ",686 001.,0481 2565244,, ,,ptjoseph@gmail.com
+165,APK Executive Committee Members,Mr.J.K.Thomas,"Malankara Plantations Ltd.,
+Malankara Buildings,
+P.B. No. 72,Kottayam 
+",686 001.,0481 2568360,, ,,mdmalankara@gmail.com
+166,APK Executive Committee Members,Mr.Prince Thomas George,"(Tata Global Beverages Ltd.),
+13-A, Cordial Praha Apartment,
+Marappalam,Pattam.P.O,
+Trivandrum-695004
+",685 612.,04865 230561.,,,,pms.gill@kdhptea.co.in
+167,APK Executive Committee Members,Mr.T.R.Radhakrishnan,"Aspinwall & Company,Ltd.
+Devankulangara,
+Edapally,Kochi-682024",682024,0484-2725400,,,,radhakrishnan.te@aspinwall.in
+168,APK Executive Committee Members,Mr.Cherian.M.George,"Harrisons Malayalam ltd,
+Bristow Road,Willingdon Island,Kochi",682003,0484-6624346,,,,cmgeorge@harrisonsmalayalam.com
+170,APK Executive Committee Members,"Mr. S.B. Prabhakar(Vice-Chairman, APK)","Pambadampara Group of Estates,Idukki",,"	04868 236258",,,,sbprabhakar@yahoo.com
+171,APK Executive Committee Members,Mr. B.P. Kariappa (Chairman APK),"KDHP Co. (P) Ltd,Munnar,Idukki",,04865 230561,,,,kariappa.bp@kdhptea.co.in

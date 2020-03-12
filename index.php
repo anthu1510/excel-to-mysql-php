@@ -38,14 +38,14 @@ if(isset($_POST['upload_excel']))
     foreach ($sheet_data as $row)
     {
         //array_push($res,$row);
-        $sql = "INSERT INTO `wp_admin_custom_users`(`id`, `reg_no`, `name`, `company_name`, `user_category`, `contact_no`, `email`, `date_of_joining`, `alter_email`, `select_type`, `member_category`, `district`, `area`, `address`, `status`, `username`, `password`, `group_name`, `group_id`)
+      /*  $sql = "INSERT INTO `wp_admin_custom_users`(`id`, `reg_no`, `name`, `company_name`, `user_category`, `contact_no`, `email`, `date_of_joining`, `alter_email`, `select_type`, `member_category`, `district`, `area`, `address`, `status`, `username`, `password`, `group_name`, `group_id`)
                 VALUES 
                 ('".$row['A']."','".$row['B']."','".$row['C']."','".$row['D']."',
                 '".$row['E']."','".$row['F']."','".$row['G']."',
                 '".$row['H']."','".$row['O']."','".$row['M']."',
                 '".$row['T']."','".$row['I']."','".$row['J']."',
                 '".$row['K']."','".$row['L']."','".$row['M']."',
-               '".md5($row['N'])."','".$row['R']."','".$row['S']."')";
+               '".md5($row['N'])."','".$row['R']."','".$row['S']."')";*/
 
        /* $sql = "INSERT INTO `wp_admin_custom_group`(`id`, `name`, `contact_no`,
 `email`, `district`, `area`, 
@@ -61,7 +61,18 @@ if(isset($_POST['upload_excel']))
                             '".$row['C']."','".$row['D']."','".$row['F']."','".$row['H']."','".$row['I']."'
                             )";*/
 
-        mysqli_query($conn, $sql);
+
+
+       $sql = "INSERT   
+                    INTO
+                        `wp_admin_custom_directory`  (`id`,  `title`,  `name`,  `email`,  `mobile_no`,  `phone_no`,  `res_phone_no`,  `fax`,  `pin_no`,  `address`)
+                    VALUES
+                    ('".$row['A']."','".$row['B']."','".$row['C']."','".$row['J']."','".$row['H']."','".$row['F']."',
+                        '".$row['G']."','".$row['I']."','".$row['E']."','".$row['D']."')";
+
+       //array_push($res,$sql);
+
+        $result = mysqli_query($conn, $sql);
         /*if(!empty($row['C']))
         {
             $checkemail = mysqli_query($conn,'SELECT * FROM `wo_emaillist` WHERE email = "'.$row['C'].'" ');
@@ -74,8 +85,9 @@ if(isset($_POST['upload_excel']))
     }
 
     echo "<pre>";
-    print_r($sql."</br>");
+    //print_r($sql."</br>");
     //print_r($res);
+    print_r($result);
     //print_r($join_date);
     $updatemsg = "File Successfully Imported!";
     $updatemsgtype = 1;
